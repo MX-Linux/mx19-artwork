@@ -1,0 +1,11 @@
+Source: mx19-artwork
+Section: xfce
+Priority: extra
+Maintainer: dolphin oracle <dolphinoracle@gmail.com>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+
+Package: mx19-artwork
+Architecture: all
+Depends: ${misc:Depends}
+Description: Default wallpaper backgrounds for MX19
