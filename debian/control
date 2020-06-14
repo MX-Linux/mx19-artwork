@@ -8,4 +8,5 @@ Standards-Version: 3.9.3
 Package: mx19-artwork
 Architecture: all
 Depends: ${misc:Depends}
+Replaces:  desktop-defaults-mx-xfce-desktop
 Description: Default wallpaper backgrounds for MX19

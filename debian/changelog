@@ -1,3 +1,9 @@
+mx19-artwork (20.06.01) mx; urgency=medium
+
+  * add wallpaper symlinks (kde) 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sun, 14 Jun 2020 14:41:22 -0400
+
 mx19-artwork (19.09.02) mx; urgency=medium
 
   * initial commit
